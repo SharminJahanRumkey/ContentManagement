@@ -1,0 +1,18 @@
+provided scope e notunkore compile korar dorkar nai. compile hocche classpath e add kore dey. 
+test scope 
+runtime scope jokhon run korba tokhon khujbe
+import existing project add kore dey
+system hocche legacy add 
+
+dependency management e parent multiple dependency ney, r child ta use kore.
+
+
+Database design e content and user management e add korte hobe. 
+
+Shantonu Sarkerhttps://www.sonatype.com/download-oss-sonatype
+
+.idea, .project eigulo hocche ide manage korar jonno. era source code er part na just tool er part. 
+tai amra eigula git e deya lagbe na. eijonno gitignore e eigula define kore dite hobe.
+
+
+lombok
